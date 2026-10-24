@@ -1,10 +1,10 @@
 {
   "pic32": {
-    "version": "2.4.0",
-    "file": "pic32/PIC32_App_v2.4.0.hex"
+    "version": "2.5.0",
+    "file": "pic32/PIC32_App_v2.5.0.hex"
   },
   "pic18": {
-    "version": "2.5.1",
-    "file": "pic18/PIC18_App_v2.5.1.img"
+    "version": "2.6.0",
+    "file": "pic18/PIC18_App_v2.6.0.img"
   }
 }
