@@ -1,7 +1,7 @@
 {
   "pic32": {
-    "version": "2.9.0",
-    "file": "pic32/PIC32_App_v2.9.0.hex"
+    "version": "2.9.1",
+    "file": "pic32/PIC32_App_v2.9.1.hex"
   },
   "pic18": {
     "version": "2.9.0",
